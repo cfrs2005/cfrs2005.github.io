@@ -1,20 +1,18 @@
 ---
 title: Getting Started
-author: toy
 date: 2023-11-21 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
-pin: true
-img_path: '/posts/20231121'
 ---
 
-![20231121k8s1.png](20231121k8s1.png)
 
 
 ## Build Helloworld.go
 
+![20231121k8s1.png](20231121k8s1.png)
 
-```
+
+```go
 package main
 
 import (
@@ -43,7 +41,7 @@ func main() {
 
 ## Make Dockerfile
 
-```
+```dockerfile
 FROM golang:latest
 
 # 将工作目录设置为 /app
@@ -64,7 +62,7 @@ CMD go run helloworld.go
 ## Build Image
 
 
-```
+```shell
 docker build -t helloworld:1.0 .
     
 ```
@@ -72,9 +70,7 @@ docker build -t helloworld:1.0 .
 
 ## Start container
 
-```
-
+```shell
 docker run -d --name myhello -p 9000:9000 helloworld:1.0
-
 ```
 
