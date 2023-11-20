@@ -1,5 +1,3 @@
-# First Join K8s Use Docker
-
 ---
 title: First Join K8s Use Docker 
 author: toy
@@ -10,12 +8,10 @@ render_with_liquid: false
 ---
 
 
+## Build Helloworld.go
 
 ![20231121k8s1.png](20231121k8s1.png)
 
-
-
-## Build Helloworld.go
 
 ```
 package main
