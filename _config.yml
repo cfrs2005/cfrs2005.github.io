@@ -17,13 +17,13 @@ timezone:
 title: Toy-Gaussian # the main title
 
 tagline: Toy's backlog notes
-# it will display as the sub-title
 
-description: Currently serving the African user group, previously worked at Baidu. Thank you to the female Bodhisattva, not to mention Gov
+description: >- # used by seo meta and the atom feed
+  Currently serving the African user group, previously worked at Baidu. Thank you to the female Bodhisattva, not to mention Gov.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'b.80aj.com'
+url: "https://b.80aj.com"
 
 github:
   username: cfrs2005 # change to your github username
@@ -63,8 +63,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
-# [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -74,7 +73,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://pbs.twimg.com/profile_images/1706933870485204992/C6VmiWMF_400x400.jpg'
+avatar:
 
 # boolean type, the global switch for TOC in posts.
 toc: true
