@@ -1,3 +1,5 @@
+# First Join K8s Use Docker
+
 ---
 title: First Join K8s Use Docker 
 author: toy
@@ -7,7 +9,7 @@ tags: [writing]
 render_with_liquid: false
 ---
 
-# First Join K8s Use Docker
+
 
 ![20231121k8s1.png](20231121k8s1.png)
 
@@ -65,7 +67,7 @@ CMD go run helloworld.go
 ## Build Image
 
 
-```dockerfile
+```
 docker build -t helloworld:1.0 .
     
 ```
@@ -73,7 +75,7 @@ docker build -t helloworld:1.0 .
 
 ## Start container
 
-```dockerfile
+```
 
 docker run -d --name myhello -p 9000:9000 helloworld:1.0
 
