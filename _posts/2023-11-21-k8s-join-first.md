@@ -1,3 +1,16 @@
+---
+title: Getting Started
+author: toy
+date: 2023-11-21 20:55:00 +0800
+categories: [Blogging, Tutorial]
+tags: [getting started]
+pin: true
+img_path: '/posts/20231121'
+---
+
+![20231121k8s1.png](20231121k8s1.png)
+
+
 ## Build Helloworld.go
 
 
