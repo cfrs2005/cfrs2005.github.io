@@ -1,16 +1,4 @@
----
-title: First Join K8s Use Docker 
-author: toy
-date: '2023-11-21 00:00:00'
-categories: [K8S, Learn]
-tags: [writing]
-render_with_liquid: false
----
-
-
 ## Build Helloworld.go
-
-![20231121k8s1.png](20231121k8s1.png)
 
 
 ```
