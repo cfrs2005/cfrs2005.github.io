@@ -1,12 +1,3 @@
----
-title: Getting Started
-date: 2023-11-21 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
----
-
-
-
 ## Build Helloworld.go
 
 ![20231121k8s1.png](20231121k8s1.png)
