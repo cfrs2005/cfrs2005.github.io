@@ -19,12 +19,11 @@ title: Toy-Gaussian # the main title
 tagline: Toy's backlog notes
 # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  Currently serving the African user group, previously worked at Baidu. Thank you to the female Bodhisattva, not to mention Gov
+description: Currently serving the African user group, previously worked at Baidu. Thank you to the female Bodhisattva, not to mention Gov
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "b.80aj.com"
+url: 'b.80aj.com'
 
 github:
   username: cfrs2005 # change to your github username
