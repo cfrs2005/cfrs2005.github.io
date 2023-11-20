@@ -1,6 +1,6 @@
 ## Build Helloworld.go
 
-![20231121k8s1.png](../assets/img/20231121k8s1.png)
+![20231121k8s1.png](assets/img/20231121k8s1.png)
 
 
 ```go
