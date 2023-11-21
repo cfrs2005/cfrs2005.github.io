@@ -1,7 +1,7 @@
 ---
 title: VPS FOR SingBOX Notes
-date: 2023-11-20 08:00:00
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+date: 2023-11-20 08:00:00 +0800
+categories: [VPS]
 tags: [VPS,TRACE,SINGBOX]   
 img_path: '/assets/img/202311/'
 ---
