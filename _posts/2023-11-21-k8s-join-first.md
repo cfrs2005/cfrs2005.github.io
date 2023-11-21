@@ -1,13 +1,15 @@
 ---
-title: K8S LEARN 01
+title: Kubernetes Essentials - Starting Your Journey with K8S - Lesson 01
 date: 2023-11-21 08:00:00 +0800
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [K8S,GO,HELLOWORLD]   
+categories: [Beginner,Technology,Kubernetes, Cloud Computing and DevOps]
+tags: [Kubernetes,GO,Lesson,K8S,DevOps]   
 img_path: '/assets/img/202311/'
 image:
   path: 20231121k8s1.png
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Dive into the world of Kubernetes with our comprehensive guide.
 ---
+
+Dive into the world of Kubernetes with our comprehensive guide, 'Kubernetes Essentials: Starting Your Journey with K8S - Lesson 01'. This introductory lesson is tailored for beginners and offers a detailed overview of Kubernetes' basic concepts, architecture, and its role in modern cloud computing. Discover how Kubernetes revolutionizes container orchestration, simplifying deployment, scaling, and management of containerized applications. This article is the perfect starting point for anyone looking to build a strong foundation in Kubernetes.
 
 
 ## Build Helloworld.go
