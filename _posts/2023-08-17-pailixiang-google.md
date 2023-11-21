@@ -1,4 +1,13 @@
-
+---
+title: Maximizing SingBOX Notes Efficiency with VPS 
+date: 2023-11-20 08:00:00 +0800
+categories: [Technology,VPS]
+tags: [VPS,TRACE,SingBOX,Virtual Private Server Setup]   
+img_path: '/assets/img/202311/'
+image:
+  path: 20231120singbox.png
+  alt: Explore the synergies of using a Virtual Private Server (VPS) with SingBOX Notes in our guide.
+---
 
 
 大儿子参加了今年的暑假军事夏令营，照片直播服务使用的是拍立享。但拍立享本身对于图片的识别不足，无法精确的识别大儿子的照片。
