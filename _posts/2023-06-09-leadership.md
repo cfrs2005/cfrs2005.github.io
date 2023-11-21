@@ -6,7 +6,7 @@ tags: [ Leadership, Career Development, Leadership Skills, Promotion, Organizati
 img_path: '/assets/img/202306/'
 image:
   path: Leadership.png
-  alt: "The Leadership Ladder" is a book focused on leadership development
+  alt: The Leadership Ladder is a book focused on leadership development
 ---
 
 "The Leadership Ladder" is a book focused on leadership development, aiming to help readers enhance their leadership
