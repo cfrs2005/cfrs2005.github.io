@@ -1,5 +1,10 @@
-# notes
-some times back log
+---
+title: VPS FOR SingBOX Notes
+date: 2023-11-20 08:00:00
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [VPS,TRACE,SINGBOX]   
+img_path: '/assets/img/202311/'
+---
 
 
 ## install singbox

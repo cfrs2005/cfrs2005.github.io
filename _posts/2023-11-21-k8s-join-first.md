@@ -1,6 +1,6 @@
 ---
 title: K8S LEARN 01
-date: 2023-11-21 10:00:00
+date: 2023-11-21 08:00:00
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [K8S,GO,HELLOWORLD]   
 img_path: '/assets/img/202311/'
