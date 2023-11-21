@@ -1,18 +1,17 @@
 ---
-title: Maximizing SingBOX Notes Efficiency with VPS 
-date: 2023-11-20 08:00:00 +0800
-categories: [Technology,VPS]
-tags: [VPS,TRACE,SingBOX,Virtual Private Server Setup]   
-img_path: '/assets/img/202311/'
+title: Enhancing Photo Recognition for My Son's Military Summer Camp using Google Photos
+date: 2023-08-17 08:00:00 +0800
+categories: [Technology, Image Recognition]
+tags: [Google Photos, Image Recognition, Military Summer Camp, Photo Identification]
+img_path: '/assets/img/202308/'
 image:
-  path: 20231120singbox.png
-  alt: Explore the synergies of using a Virtual Private Server (VPS) with SingBOX Notes in our guide.
+ path: 20231120_son_military_camp.png
+ alt: Explore how I improved photo recognition for my son's military summer camp images using Google Photos.
 ---
 
+My eldest son participated in this year's summer military camp, and the photo streaming service we used was PixLive. However, PixLive's image recognition capabilities fell short, failing to accurately identify my son's photos.
 
-大儿子参加了今年的暑假军事夏令营，照片直播服务使用的是拍立享。但拍立享本身对于图片的识别不足，无法精确的识别大儿子的照片。
-
-我希望能通过谷歌相册的识别来精准的判断哪些是我大儿子的照片，于是有了下面的相关代码
+I wanted to use Google Photos' recognition to precisely determine which photos featured my eldest son. As a result, I developed the following code for this purpose:
 
 ## 一、获取相册所有的照片数据
 

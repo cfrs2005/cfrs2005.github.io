@@ -1,4 +1,13 @@
-
+---
+title: Understanding IP Transmission in China's Telecom Landscape
+date: 2023-11-03 08:00:00 +0800
+categories: [Technology, Telecommunications]
+tags: [IP Transmission, China Telecom, China Unicom, China Mobile International]
+img_path: '/assets/img/202311/'
+image:
+ path: 20231120_china_telecom.png
+ alt: Explore the complexities of IP transmission among China's major telecom operators.
+---
 
 中国有三家主要的IP传输运营商：中国电信（CT，市场份额最大），中国联通（CU）和中国移动国际（CMI）。它们为中国的居民客户、企业客户以及移动客户提供服务。
 
