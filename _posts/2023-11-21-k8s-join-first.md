@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Essentials - Starting Your Journey with K8S - Lesson 01
 date: 2023-11-21 08:00:00 +0800
-categories: [Beginner,Technology,Kubernetes, Cloud Computing and DevOps]
+categories: [Technology,Beginner,Kubernetes, Cloud Computing and DevOps]
 tags: [Kubernetes,GO,Lesson,K8S,DevOps]   
 img_path: '/assets/img/202311/'
 image:
