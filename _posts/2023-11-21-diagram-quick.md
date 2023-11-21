@@ -1,7 +1,7 @@
 ---
 title: Quick Start with SequenceDiagram Syntax
 date: 2023-11-21 10:00:00 +0800
-categories: [ Technology,Beginner,Kubernetes, Cloud Computing and DevOps ]
+categories: [ Design,SequenceDiagram ]
 tags: [ Software Development ]
 img_path: '/assets/img/202311/'
 image:
