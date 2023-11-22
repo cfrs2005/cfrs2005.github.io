@@ -9,6 +9,30 @@ image:
   alt: The Leadership Ladder is a book focused on leadership development
 ---
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
+table th:nth-of-type(4) {
+    width: 10%;
+}
+table th:nth-of-type(5) {
+    width: 10%;
+}
+table th:nth-of-type(6) {
+    width: 10%;
+}
+table th:nth-of-type(7) {
+    width: 10%;
+}
+</style>
+
 "The Leadership Ladder" is a book focused on leadership development, aiming to help readers enhance their leadership
 skills and achieve success in their careers. This book delves into different levels and dimensions of leadership,
 providing readers with a roadmap to success.
