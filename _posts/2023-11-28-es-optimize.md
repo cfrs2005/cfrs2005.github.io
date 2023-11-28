@@ -91,7 +91,7 @@ When migrating MySQL services to Elasticsearch for query operations, utilizing w
 
 ## Put Data Insert
 
-```Python
+```python
 import random
 
 import requests
@@ -159,7 +159,7 @@ POST /warmsearch/_open
 
 
 ## Search  Bench Testing
-```shell
+```python
 import requests
 import time
 
