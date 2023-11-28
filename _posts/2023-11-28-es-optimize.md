@@ -1,6 +1,6 @@
 ---
 title: Enhancing MySQL to Elasticsearch Migration for Efficient Querying
-date: 2023-11-20 08:00:00 +0800
+date: 2023-11-28 08:00:00 +0800
 categories: [Technology, Database]
 tags: [Elasticsearch, MySQL Migration, Wildcard Queries, Performance Optimization]
 img_path: '/assets/img/202311/'
