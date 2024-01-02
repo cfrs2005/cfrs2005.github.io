@@ -46,7 +46,7 @@ https://chat.lmsys.org/?leaderboard
 ## Google NoteBookLLM
 
 
-![img.png](../assets/img/202312/notebookllm.png)
+![img.png](notebookllm.png)
 
 ```shell
 https://notebooklm.google.com/
@@ -55,7 +55,7 @@ https://notebooklm.google.com/
 
 ## 模型训练
 
-![img.png](../assets/img/202312/modihand.png)
+![img.png](modihand.png)
 
 ```shell
 https://help.modihand.com/gai-nian-le-jie/xun-lian-yi-wei-zhe-shen-me
