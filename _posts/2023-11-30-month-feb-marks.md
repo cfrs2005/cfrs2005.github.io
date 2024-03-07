@@ -45,7 +45,10 @@ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elas
 ## Kibana docker 启动
 
 ```shell
-docker run --name my-kibana -d -p 5601:5601 docker.elastic.co/kibana/kibana:7.15.0
+docker run -d --name carmkibana -p 5601:5601 gagara/kibana-oss-arm64
+# 虽然支持arm，但不知 es 7.1.0
+# docker run --name my-kibana -d -p 5601:5601 docker.elastic.co/kibana/kibana:7.15.0
+
 ```
 
 ## 检测海外翻墙IP
