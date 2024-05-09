@@ -50,8 +50,8 @@ At the global financial conference, attendees from diverse economies were tuning
 * "were tuning into" 使用了进行时的被动语态，表明与会者正在积极参与讨论。
 * "subtly influenced" 这里用副词 "subtly" 来修饰动词 "influenced"，增加了描述的细腻性。
 * "remarkably quick decisions" 中的 "remarkably" 作为副词，加强了 "quick" 的程度。
-  在一次会议中，分析了一系列危机，以得出有关对立金融策略的宝贵结论。根据他们独特的优势，一些人主张妥协，而其他人则在支持和反对的观点之间周旋，努力达成一个对所有人都大有裨益的平衡。
 
+在一次会议中，分析了一系列危机，以得出有关对立金融策略的宝贵结论。根据他们独特的优势，一些人主张妥协，而其他人则在支持和反对的观点之间周旋，努力达成一个对所有人都大有裨益的平衡。
 
 In one session, a series of crises were analyzed to draw valuable conclusions about opposing financial strategies. Depending on their unique strengths, some advocated for compromise, while others juggled supporting and opposing views, striving to achieve a balance that would vastly benefit all.
 

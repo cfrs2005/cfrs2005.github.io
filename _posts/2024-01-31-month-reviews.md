@@ -38,7 +38,7 @@ https://gdpr-info.eu/art-4-gdpr/
 ```
 
 
-## IPOHNE手机壳
+## IPHONE手机壳
 
 ![arc-pulse.png](arc-pulse.png)
 ```shell
