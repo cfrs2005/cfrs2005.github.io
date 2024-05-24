@@ -21,10 +21,11 @@ order: 4
 
 ## Site Recommend
 
-| Site Name | Description   | Link                          |
-|:----------|:--------------|:------------------------------|
-|黑猫TV           | 电影网站          | [黑猫TV](https://heimaotv.vip/) |
-|茶杯狐           | 电影网站              | [茶杯狐](https://cupfox.love/)   |
-|NOVIPNOAD|  电影网站             |[novipnoad](https://www.novipnoad.net/)|
-|MR Ranedeer| GPTS 快速学习一个技能 |[Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|
-| MACWK| 不错的MAC下载站点    |[MACWK](https://www.macwk.com/)|
+| Site Name   | Description   | Link                          |
+|:------------|:--------------|:------------------------------|
+| 黑猫TV        | 电影网站          | [黑猫TV](https://heimaotv.vip/) |
+| 茶杯狐         | 电影网站              | [茶杯狐](https://cupfox.love/)   |
+| NOVIPNOAD   |  电影网站             |[novipnoad](https://www.novipnoad.net/)|
+| MR Ranedeer | GPTS 快速学习一个技能 |[Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|
+| MACWK       | 不错的MAC下载站点    |[MACWK](https://www.macwk.com/)|
+| K8S异常CODE   |K8S服务异常的整理|[komodor](https://komodor.com/learn/exit-codes-in-containers-and-kubernetes-the-complete-guide/)|

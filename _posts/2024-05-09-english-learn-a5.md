@@ -11,7 +11,6 @@ image:
 
 Today’s lesson marks a series aimed at helping programmers learn English. The article is divided into two main sections: the introduction of new English vocabulary and a constructed article based on these words. Additionally, the piece includes an analysis of reading comprehension and an introduction to grammar. This structured approach is designed to enhance language acquisition for those in the programming field.
 
-下面是您提供的英文单词的中文定义、解释、造句、翻译以及相关的扩展信息：
 
 | 英文单词         | 定义与解释                                                   | 例句                                                        | 例句翻译                                                  | 扩展信息                                                   |
 |----------------|------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
