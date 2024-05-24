@@ -1,3 +1,16 @@
+---
+title: Website Compromise Analysis Methods and Recommended Scan Tools
+date: 2024-05-22 08:00:00 +0800
+categories: [Technology,Security]
+tags: [Website Security,Hacking,Analysis Tools]
+img_path: '/assets/img/202405/'
+image:
+ path: sqlmap.png
+ alt: Explore the methods for analyzing website compromises and discover recommended scan tools in our guide.
+---
+
+
+This article discusses various methods for analyzing website compromises and provides recommendations for simple scan tools to use.
 
 
 
@@ -32,7 +45,7 @@ Remote IP: 116.62.140.98
 
 得到相关代码
 
-![img.png](../assets/img/202405/sqlmapcode.png)
+![sqlmapcode.png](sqlmapcode.png)
 
 
 可见通过百度，360，搜狗的相关跳转会跳转到相关的色情网站。但这里实际上还有个地方需要注意，是网站的Response已经被替换为新的输出，而不是网站里有额外的Js代码来实现的，说明是动态服务的源码被入侵了
@@ -56,4 +69,4 @@ alias sqlmap="python3 /Users/aaa/sqlmap/sqlmap-dev/sqlmap.py"
 sqlmap -u "https://www.festool.com.cn/product/view?id=576730" --batch --level=5 --risk=3 -p id --dbs --random-agent --threads=10
 ```
 
-![img.png](../assets/img/202405/sqlmap.png)
+![sqlmap.png](../assets/img/202405/sqlmap.png)
