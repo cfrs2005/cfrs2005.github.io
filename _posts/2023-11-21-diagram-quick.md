@@ -70,7 +70,7 @@ Note over SearchResultsPage: When the search is complete,\nthe system displays t
 
 ```shell
 sequenceDiagram
-a->>b:visit site\nb.80aj.com
+a->>b:visit site\nwww.80aj.com
 ```
 
 ## Use Actor
